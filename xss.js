@@ -1,1 +1,1 @@
-alert("Final challenge!")
+alert("Final challenge!");

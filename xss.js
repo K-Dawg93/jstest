@@ -1,1 +1,1 @@
-alert("Final challenge!");
+<script>alert("Final challenge!")</script>
